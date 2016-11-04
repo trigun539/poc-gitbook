@@ -1,0 +1,15 @@
+{
+  "name": "emr",
+  "version": "1.0.0",
+  "description": "Enterprise Metadata Repository",
+  "main": "index.js",
+  "scripts": {
+    "doc:build": "gitbook build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook": "^3.2.2",
+    "gitbook-cli": "^2.3.0"
+  }
+}
